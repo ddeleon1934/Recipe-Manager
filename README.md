@@ -32,3 +32,7 @@ recipe-manager/
 │-- recipes.json          # Stores recipes data
 │-- recipe_manager.py     # Main application script
 │-- README.md             # Project documentation
+
+## Contributing
+Feel free to submit issues or pull requests to improve the application.
+
