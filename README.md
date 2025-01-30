@@ -16,5 +16,13 @@ Recipe Manager is a simple and intuitive desktop application for storing, viewin
 2. Install dependencies:
    ```sh
    pip install PyQt5
-    
+3. Run the application:
+    ```sh
+   python recipe_manager.py
+
+## Usage
+- Click Add Recipe to create a new recipe.
+- Select a recipe from the list and click View Recipe to see details.
+- Click Edit Recipe to modify an existing recipe.
+- Click Delete Recipe to remove a recipe permanently.  
    
