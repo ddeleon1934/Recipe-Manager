@@ -13,4 +13,8 @@ Recipe Manager is a simple and intuitive desktop application for storing, viewin
    ```sh
    git clone https://github.com/yourusername/recipe-manager.git
    cd recipe-manager
+2. Install dependencies:
+   ```sh
+   pip install PyQt5
+    
    
