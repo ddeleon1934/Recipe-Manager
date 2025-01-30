@@ -1,6 +1,13 @@
 # Recipe-Manager
 Recipe Manager is a simple and intuitive desktop application for storing, viewing, editing, and organizing recipes. Users can add recipes with ingredients and instructions, edit existing entries, and delete recipes as needed. Built with PyQt5, the app provides a user-friendly interface for easy recipe management.
 
+## Screenshots
+![image](https://github.com/user-attachments/assets/15300a28-e7e4-486c-af81-b79fa71a4ae5)
+
+![image](https://github.com/user-attachments/assets/8472c986-8c78-42fa-895f-600b45756778)
+
+
+
 ## Features  
 - 📜 View a list of saved recipes  
 - ➕ Add new recipes with title, ingredients, and instructions  
