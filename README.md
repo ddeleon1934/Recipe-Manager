@@ -33,9 +33,7 @@ Recipe Manager is a simple and intuitive desktop application for storing, viewin
       │-- recipe_manager.py     # Main application script
       │-- README.md             # Project documentation
 
-
-
-##Contributing
+## Contributing
 Feel free to submit issues or pull requests to improve the application.
 
 
