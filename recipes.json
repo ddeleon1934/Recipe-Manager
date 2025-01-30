@@ -1,0 +1,42 @@
+[
+    {
+        "title": "Spaghetti Carbonara",
+        "ingredients": [
+            "Spaghetti",
+            " Eggs",
+            " Parmesan cheese",
+            " Pancetta",
+            " Black pepper",
+            " Salt"
+        ],
+        "instructions": "1. Cook spaghetti in salted boiling water until al dente.\n2. In a bowl, whisk eggs with grated Parmesan cheese.\n3. Cook pancetta in a pan until crispy.\n4. Drain spaghetti and mix it with pancetta.\n5. Remove from heat, quickly mix in the egg mixture, stirring constantly to create a creamy sauce.\n6. Season with black pepper and serve hot."
+    },
+    {
+        "title": "Classic Pancakes",
+        "ingredients": [
+            "Flour",
+            " Baking powder",
+            " Sugar",
+            " Milk",
+            " Egg",
+            " Butter",
+            " Vanilla extract"
+        ],
+        "instructions": "1. In a bowl, mix flour, baking powder, and sugar.\n2. In another bowl, whisk milk, egg, melted butter, and vanilla.\n3. Combine wet and dry ingredients, mixing until smooth.\n4. Heat a pan, pour batter to form pancakes, and cook until bubbles appear.\n5. Flip and cook for another minute.\n6. Serve with syrup or toppings of choice."
+    },
+    {
+        "title": "Chicken Stir-Fry",
+        "ingredients": [
+            "Chicken breast",
+            " Soy sauce",
+            " Garlic",
+            " Ginger",
+            " Bell peppers",
+            " Carrots",
+            " Onion",
+            " Olive oil",
+            " Sesame seeds"
+        ],
+        "instructions": "1. Cut chicken into strips and marinate in soy sauce, garlic, and ginger for 10 minutes.\n2. Heat oil in a pan, cook chicken until golden brown.\n3. Add chopped bell peppers, carrots, and onions. Stir-fry for 5 minutes.\n4. Garnish with sesame seeds and serve over rice."
+    }
+]
