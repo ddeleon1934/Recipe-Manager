@@ -28,7 +28,7 @@ Recipe Manager is a simple and intuitive desktop application for storing, viewin
 
 ## Structure  
       ```sh
-      recipe-manager/
+      |-- recipe-manager
       │-- recipes.json          # Stores recipes data
       │-- recipe_manager.py     # Main application script
       │-- README.md             # Project documentation
