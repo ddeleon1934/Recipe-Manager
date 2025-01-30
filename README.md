@@ -25,4 +25,10 @@ Recipe Manager is a simple and intuitive desktop application for storing, viewin
 - Select a recipe from the list and click View Recipe to see details.
 - Click Edit Recipe to modify an existing recipe.
 - Click Delete Recipe to remove a recipe permanently.  
-   
+
+## Installation  
+```sh
+recipe-manager/
+│-- recipes.json          # Stores recipes data
+│-- recipe_manager.py     # Main application script
+│-- README.md             # Project documentation
